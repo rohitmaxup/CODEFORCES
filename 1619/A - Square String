@@ -1,3 +1,37 @@
-<h3><a href="https://codeforces.com/contest/1619/problem/A" target="_blank" rel="noopener noreferrer">Square String?</a></h3>
-
-Problem statement could not be retrieved. Please visit the link above.
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+    int t;
+    cin>>t;
+    while(t--)
+    {
+        string s;
+        cin>>s;
+ 
+        if(s.length()%2==1)
+        {
+            cout<<"NO"<<endl;
+        }
+        else 
+        {
+            int flag = 1;
+            for(int i = 0 ; i < s.length()/2 ; i++)
+            {
+                if(s[i]!=s[s.length()/2+i])
+                {
+                    flag =0;
+                }
+            }
+ 
+            if(flag)
+            {
+                cout<<"YES"<<endl;
+            }
+            else
+            {
+                cout<<"NO"<<endl;
+            }
+        }
+    }
+}
