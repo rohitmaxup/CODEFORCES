@@ -1,0 +1,27 @@
+#include <bits/stdc++.h>
+using namespace std;
+ 
+int main()
+{
+    int solved = 0;
+    int t;
+    cin >> t;
+    while (t--)
+    {
+        vector<int> v(3);
+        int count = 0;
+        for (int i = 0; i < 3; i++)
+        {
+            cin >> v[i];
+ 
+            if (v[i] == 1)
+                count++;
+        }
+ 
+        if (count >= 2)
+        {
+            solved++;
+        }
+    }
+    cout << solved;
+}
