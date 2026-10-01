@@ -6,13 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (1)
+- [dp](#dp) (1)
+- [math](#math) (1)
 
 ---
 
@@ -21,6 +23,18 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/rohitmaxup/CODEFORCES/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/rohitmaxup/CODEFORCES/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/rohitmaxup/CODEFORCES/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
 
 ---
 
