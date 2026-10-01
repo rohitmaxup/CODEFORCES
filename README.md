@@ -6,15 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 3 |
+| 3 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (1)
+- [combinatorics](#combinatorics) (1)
 - [dp](#dp) (1)
-- [math](#math) (1)
+- [math](#math) (2)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -23,6 +25,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/rohitmaxup/CODEFORCES/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
+
+### combinatorics
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/rohitmaxup/CODEFORCES/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 
 ### dp
 
@@ -34,7 +42,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/rohitmaxup/CODEFORCES/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/rohitmaxup/CODEFORCES/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/rohitmaxup/CODEFORCES/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 
 ---
 
