@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 5 |
+| 5 | 7 |
 
 ---
 
@@ -15,7 +15,9 @@
 - [Uncategorized](#uncategorized) (1)
 - [combinatorics](#combinatorics) (1)
 - [dp](#dp) (1)
-- [math](#math) (2)
+- [greedy](#greedy) (2)
+- [implementation](#implementation) (1)
+- [math](#math) (4)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -38,10 +40,25 @@
 |---|---------|------------|----------|
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/rohitmaxup/CODEFORCES/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
 
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1447B | [Numbers Box](https://codeforces.com/contest/1447/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/rohitmaxup/CODEFORCES/blob/HEAD/1447/B%20-%20Numbers%20Box/solution.cpp) |
+| 1802B | [Settlement of Guinea Pigs](https://codeforces.com/contest/1802/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/rohitmaxup/CODEFORCES/blob/HEAD/1802/B%20-%20Settlement%20of%20Guinea%20Pigs/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1802B | [Settlement of Guinea Pigs](https://codeforces.com/contest/1802/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/rohitmaxup/CODEFORCES/blob/HEAD/1802/B%20-%20Settlement%20of%20Guinea%20Pigs/solution.cpp) |
+
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1447B | [Numbers Box](https://codeforces.com/contest/1447/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/rohitmaxup/CODEFORCES/blob/HEAD/1447/B%20-%20Numbers%20Box/solution.cpp) |
+| 1802B | [Settlement of Guinea Pigs](https://codeforces.com/contest/1802/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/rohitmaxup/CODEFORCES/blob/HEAD/1802/B%20-%20Settlement%20of%20Guinea%20Pigs/solution.cpp) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/rohitmaxup/CODEFORCES/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/rohitmaxup/CODEFORCES/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
 
